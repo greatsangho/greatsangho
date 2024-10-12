@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreatsangho&count_bg=%23003876&title_bg=%23003876&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsangho&show_icons=true&theme=radical)
