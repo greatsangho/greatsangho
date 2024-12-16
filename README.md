@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://greatsangho.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=flat&logo=tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
