@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black"/>
