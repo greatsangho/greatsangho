@@ -77,6 +77,12 @@ As a hobby, I enjoy backend development and game development, constantly explori
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [정보처리기사 필기 후기 및 공부 방법 정리](https://greatsangho.tistory.com/118)
+- [Continue - 무료로 코딩 자동 완성 툴 사용 및 모델 별 간단 성능 비교](https://greatsangho.tistory.com/117)
+- [FinPilot: Google Docs에서 비즈니스 문서 작성 및 편집을 위한 AI 도우미](https://greatsangho.tistory.com/116)
+- [FinPilot - 구글 코랩에서 Ollama 구동하기 및 파인튜닝하기](https://greatsangho.tistory.com/114)
+- [FinPilot - Kubernetes를 이용한 AWS 고가용성 서버](https://greatsangho.tistory.com/113)
+- [FinPilot - AWS Debian에서 FastAPI 서버 Docker Compose](https://greatsangho.tistory.com/112)
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ From [greatsangho](https://github.com/greatsangho)
