@@ -33,6 +33,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 ### 🌐 Web Development
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </p>
 
