@@ -67,11 +67,116 @@ As a hobby, I enjoy backend development and game development, constantly explori
 </p>
 
 ## 🏆 Projects
-- **[AI_Chatbot_Project](https://github.com/greatsangho/AI_Chatbot_Project)**: Chatbot project utilizing LangChain and OpenAI
-- **[Data-Analysis-Projects](https://github.com/greatsangho/Data-Analysis-Projects)**: Collection of various data analysis projects
-- **[Django_Projects](https://github.com/greatsangho/Django_Projects)**: Web development projects using Django
-- **[ML_DL_Projects](https://github.com/greatsangho/ML_DL_Projects)**: Machine learning and deep learning projects
-- **[Unity_Game_Development](https://github.com/greatsangho/Unity_Game_Development)**: Game development projects using Unity
+
+## 2024 프로젝트
+
+### [FinPilot (SKN05-FINAL-3TEAM)](https://github.com/greatsangho/SKN05-FINAL-3TEAM)
+- **개발 기간**: 2024.01 - 2024.02
+- **사용 기술**: Chrome Extension, LangGraph, LLM, FastAPI, Google Docs API
+- **주요 기능**: 
+  - 문서 초안 작성 및 편집
+  - 단락 생성 및 리팩토링
+  - 요약 및 확장 기능
+  - 데이터 분석/시각화 지원
+- **설명**: 비즈니스 문서 작성을 쉽고 효율적으로 도와주는 구글 독스 환경의 LLM 기반 문서 어시스턴트
+
+### [SKN05-3RD-1TEAM](https://github.com/greatsangho/SKN05-3RD-1TEAM)
+- **개발 기간**: 2023.12 - 2024.01
+- **사용 기술**: Python, Pandas, Scikit-learn, TensorFlow/PyTorch, 데이터 시각화
+- **주요 기능**: 
+  - 데이터 수집 및 전처리
+  - 머신러닝 모델 개발 및 평가
+  - 분석 결과 시각화
+- **설명**: SK Networks AI 캠프 3차 프로젝트로 진행된 데이터 분석 및 예측 모델 개발
+
+### [통신사 고객 이탈 예측 (SKN05-2ST-2TEAM)](https://github.com/greatsangho/SKN05-2ST-2TEAM)
+- **개발 기간**: 2023.11.16 - 2023.11.17
+- **사용 기술**: Python, Pandas, Scikit-learn, XGBoost, Random Forest, Streamlit
+- **주요 기능**: 
+  - 데이터 전처리 및 EDA
+  - 모델 학습 및 성능 비교
+  - 모델 해석 및 특성 중요도 분석
+  - Streamlit 대시보드 구현
+- **설명**: 캘리포니아 지역 통신사 고객 이탈 예측을 통해 고객 이탈 방지 전략 제시
+
+### [통합 FAQ 조회 시스템 (SKN05-1nd-4Team)](https://github.com/greatsangho/SKN05-1nd-4Team)
+- **개발 기간**: 2023.10 - 2023.11
+- **사용 기술**: MySQL, Python, Selenium, BeautifulSoup, Streamlit, Pandas
+- **주요 기능**: 
+  - 자동차 등록 현황 데이터베이스 구축
+  - 브랜드별 FAQ 웹 크롤링
+  - 통합 검색 엔진 개발
+  - 사용자 친화적 인터페이스 구현
+- **설명**: MySQL을 활용한 자동차 등록 현황 조회 및 FAQ 제공 애플리케이션
+
+### [2024-Kamp-Competition](https://github.com/greatsangho/2024-Kamp-Competition)
+- **개발 기간**: 2023.09 - 2023.10
+- **사용 기술**: Python, 데이터 분석, 머신러닝, 딥러닝, 시계열 분석
+- **주요 기능**: 
+  - 데이터 전처리 및 특성 엔지니어링
+  - 다양한 모델 학습 및 앙상블
+  - 모델 성능 평가 및 최적화
+- **설명**: 2024년 SK Networks AI Kamp 경진대회 참가 프로젝트
+
+## 개인 프로젝트 및 학습 (2023-2024)
+
+### [firstfastapi](https://github.com/greatsangho/firstfastapi)
+- **개발 기간**: 2023.08 - 2023.09
+- **사용 기술**: FastAPI, Python, SQLAlchemy, Pydantic, JWT
+- **주요 기능**: 
+  - RESTful API 엔드포인트 구현
+  - 데이터베이스 연동 및 ORM 활용
+  - 인증 및 권한 관리
+  - API 문서 자동화
+- **설명**: FastAPI 프레임워크를 이용한 첫 번째 API 서버 개발 및 학습 프로젝트
+
+### [python_ML](https://github.com/greatsangho/python_ML)
+- **개발 기간**: 2023.07 - 2023.08
+- **사용 기술**: Python, Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn
+- **주요 기능**: 
+  - 데이터 전처리 및 시각화
+  - 분류/회귀/군집화 알고리즘 구현
+  - 모델 평가 및 하이퍼파라미터 튜닝
+  - 앙상블 학습 기법 적용
+- **설명**: Python을 활용한 머신러닝 알고리즘 학습 및 구현 프로젝트
+
+### [chatbot](https://github.com/greatsangho/chatbot)
+- **개발 기간**: 2023.06 - 2023.07
+- **사용 기술**: Python, NLP 라이브러리(NLTK/spaCy), TensorFlow/PyTorch, Flask/Django
+- **주요 기능**: 
+  - 자연어 처리 및 의도 분류
+  - 대화 상태 관리
+  - 응답 생성 모델 구현
+  - 웹/메신저 연동 인터페이스
+- **설명**: 자연어 처리 기술을 활용한 대화형 챗봇 개발 프로젝트
+
+### [open](https://github.com/greatsangho/open)
+- **개발 기간**: 2023.05 - 2023.06
+- **사용 기술**: Python, Colab
+- **주요 기능**: 
+  - Colab 환경 설정
+  - requirements.txt 관리
+- **설명**: Google Colab 환경에서 사용할 requirements.txt 관련 소스 관리 프로젝트
+
+## 초기 프로젝트 (2022-2023)
+
+### [first-project](https://github.com/greatsangho/first-project)
+- **개발 기간**: 2022.12 - 2023.01
+- **사용 기술**: Unity, C#, 3D 모델링
+- **주요 기능**: 
+  - 3D 맵 설계
+  - 게임 환경 구축
+- **설명**: Unity 엔진을 활용한 첫 번째 게임 맵 설계 프로젝트
+
+### [Castle](https://github.com/greatsangho/Castle)
+- **개발 기간**: 2022.10 - 2022.11
+- **사용 기술**: Unity, C#, 3D 모델링, 게임 디자인
+- **주요 기능**: 
+  - 성(Castle) 테마 맵 디자인
+  - 게임 환경 및 오브젝트 배치
+- **설명**: Unity 엔진을 활용한 성 테마의 게임 맵 설계 프로젝트
+
+---
 
 ## 🔗 My Blog
 <a href="https://greatsangho.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=flat&logo=tistory&logoColor=white"/></a>
