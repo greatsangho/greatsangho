@@ -71,7 +71,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 ## 2024 프로젝트
 
 ### [FinPilot (SKN05-FINAL-3TEAM)](https://github.com/greatsangho/SKN05-FINAL-3TEAM)
-- **개발 기간**: 2024.01 - 2024.02
+- **개발 기간**: 2024.12 - 2025.02
 - **사용 기술**: Chrome Extension, LangGraph, LLM, FastAPI, Google Docs API
 - **주요 기능**: 
   - 문서 초안 작성 및 편집
@@ -81,7 +81,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: 비즈니스 문서 작성을 쉽고 효율적으로 도와주는 구글 독스 환경의 LLM 기반 문서 어시스턴트
 
 ### [SKN05-3RD-1TEAM](https://github.com/greatsangho/SKN05-3RD-1TEAM)
-- **개발 기간**: 2023.12 - 2024.01
+- **개발 기간**: 2024.12 - 2024.12
 - **사용 기술**: Python, Pandas, Scikit-learn, TensorFlow/PyTorch, 데이터 시각화
 - **주요 기능**: 
   - 데이터 수집 및 전처리
@@ -100,7 +100,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: 캘리포니아 지역 통신사 고객 이탈 예측을 통해 고객 이탈 방지 전략 제시
 
 ### [통합 FAQ 조회 시스템 (SKN05-1nd-4Team)](https://github.com/greatsangho/SKN05-1nd-4Team)
-- **개발 기간**: 2023.10 - 2023.11
+- **개발 기간**: 2024.10 - 2024.11
 - **사용 기술**: MySQL, Python, Selenium, BeautifulSoup, Streamlit, Pandas
 - **주요 기능**: 
   - 자동차 등록 현황 데이터베이스 구축
@@ -110,7 +110,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: MySQL을 활용한 자동차 등록 현황 조회 및 FAQ 제공 애플리케이션
 
 ### [2024-Kamp-Competition](https://github.com/greatsangho/2024-Kamp-Competition)
-- **개발 기간**: 2023.09 - 2023.10
+- **개발 기간**: 2024.09 - 2024.10
 - **사용 기술**: Python, 데이터 분석, 머신러닝, 딥러닝, 시계열 분석
 - **주요 기능**: 
   - 데이터 전처리 및 특성 엔지니어링
@@ -121,7 +121,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 ## 개인 프로젝트 및 학습 (2023-2024)
 
 ### [firstfastapi](https://github.com/greatsangho/firstfastapi)
-- **개발 기간**: 2023.08 - 2023.09
+- **개발 기간**: 2024.08 - 2024.09
 - **사용 기술**: FastAPI, Python, SQLAlchemy, Pydantic, JWT
 - **주요 기능**: 
   - RESTful API 엔드포인트 구현
@@ -131,7 +131,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: FastAPI 프레임워크를 이용한 첫 번째 API 서버 개발 및 학습 프로젝트
 
 ### [python_ML](https://github.com/greatsangho/python_ML)
-- **개발 기간**: 2023.07 - 2023.08
+- **개발 기간**: 2024.07 - 2024.08
 - **사용 기술**: Python, Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn
 - **주요 기능**: 
   - 데이터 전처리 및 시각화
@@ -141,7 +141,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: Python을 활용한 머신러닝 알고리즘 학습 및 구현 프로젝트
 
 ### [chatbot](https://github.com/greatsangho/chatbot)
-- **개발 기간**: 2023.06 - 2023.07
+- **개발 기간**: 2024.08 - 2024.08
 - **사용 기술**: Python, NLP 라이브러리(NLTK/spaCy), TensorFlow/PyTorch, Flask/Django
 - **주요 기능**: 
   - 자연어 처리 및 의도 분류
@@ -151,7 +151,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: 자연어 처리 기술을 활용한 대화형 챗봇 개발 프로젝트
 
 ### [open](https://github.com/greatsangho/open)
-- **개발 기간**: 2023.05 - 2023.06
+- **개발 기간**: 2024.08 - 2024.09
 - **사용 기술**: Python, Colab
 - **주요 기능**: 
   - Colab 환경 설정
