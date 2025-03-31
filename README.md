@@ -80,6 +80,15 @@ As a hobby, I enjoy backend development and game development, constantly explori
   - 데이터 분석/시각화 지원
 - **설명**: 비즈니스 문서 작성을 쉽고 효율적으로 도와주는 구글 독스 환경의 LLM 기반 문서 어시스턴트
 
+### [SKN05-4TH-1TEAM](https://github.com/greatsangho/SKN05-4TH-1TEAM)
+- **개발 기간**: 2024.12 - 2024.12
+- **사용 기술**: Python, Pandas, Scikit-learn, TensorFlow/PyTorch, HTML, CSS, JS, Django, Docker, AWS
+- **주요 기능**: 
+  - SKN05-3RD-1TEAM 프로젝트 AWS 배포
+  - Django 서버 구축
+  - HTML, CSS, JS 및 Bootstrap을 활용한 채팅 웹페이지 구현
+- **설명**: SK Networks AI 캠프 4차 프로젝트로 진행된 3차 프로젝트 모델의 웹 구현 및 배포 버전
+
 ### [SKN05-3RD-1TEAM](https://github.com/greatsangho/SKN05-3RD-1TEAM)
 - **개발 기간**: 2024.12 - 2024.12
 - **사용 기술**: Python, Pandas, Scikit-learn, TensorFlow/PyTorch, 데이터 시각화
@@ -118,10 +127,20 @@ As a hobby, I enjoy backend development and game development, constantly explori
   - 모델 성능 평가 및 최적화
 - **설명**: 2024년 SK Networks AI Kamp 경진대회 참가 프로젝트
 
+### [competition](https://github.com/greatsangho/competition)
+- **개발 기간**: 2024.08 - 2024.09
+- **사용 기술**: Python, ML(SVM, RandomForest, XGBoost, Ensenble, etc.), TensorFlow/PyTorch
+- **주요 기능**: 
+  - 2024 생명연구자원 AI활용 경진대회 (gene2024)
+  - 이미지 색상화 및 손실 부분 복원 AI 경진대회 (image2024)
+  - 2024 제4회 K-water AI 경진대회 (k-water)
+  - KAMP 스마트 공장 제조 공정 품질 최적화 AI 경진대회 (factory)
+- **설명**: 자연어 처리 기술을 활용한 대화형 챗봇 개발 프로젝트
+
 ## 개인 프로젝트 및 학습 (2023-2024)
 
 ### [firstfastapi](https://github.com/greatsangho/firstfastapi)
-- **개발 기간**: 2024.08 - 2024.09
+- **개발 기간**: 2024.12 - 2024.12
 - **사용 기술**: FastAPI, Python, SQLAlchemy, Pydantic, JWT
 - **주요 기능**: 
   - RESTful API 엔드포인트 구현
@@ -131,7 +150,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: FastAPI 프레임워크를 이용한 첫 번째 API 서버 개발 및 학습 프로젝트
 
 ### [python_ML](https://github.com/greatsangho/python_ML)
-- **개발 기간**: 2024.07 - 2024.08
+- **개발 기간**: 2024.08 - 2024.12
 - **사용 기술**: Python, Scikit-learn, Pandas, Matplotlib, NumPy, Seaborn
 - **주요 기능**: 
   - 데이터 전처리 및 시각화
@@ -139,16 +158,6 @@ As a hobby, I enjoy backend development and game development, constantly explori
   - 모델 평가 및 하이퍼파라미터 튜닝
   - 앙상블 학습 기법 적용
 - **설명**: Python을 활용한 머신러닝 알고리즘 학습 및 구현 프로젝트
-
-### [chatbot](https://github.com/greatsangho/chatbot)
-- **개발 기간**: 2024.08 - 2024.08
-- **사용 기술**: Python, NLP 라이브러리(NLTK/spaCy), TensorFlow/PyTorch, Flask/Django
-- **주요 기능**: 
-  - 자연어 처리 및 의도 분류
-  - 대화 상태 관리
-  - 응답 생성 모델 구현
-  - 웹/메신저 연동 인터페이스
-- **설명**: 자연어 처리 기술을 활용한 대화형 챗봇 개발 프로젝트
 
 ### [open](https://github.com/greatsangho/open)
 - **개발 기간**: 2024.08 - 2024.09
@@ -159,6 +168,15 @@ As a hobby, I enjoy backend development and game development, constantly explori
 - **설명**: Google Colab 환경에서 사용할 requirements.txt 관련 소스 관리 프로젝트
 
 ## 초기 프로젝트 (2022-2023)
+
+### [MazeSurvival(Private)](https://www.youtube.com/watch?v=aAr7wEPgzfE)
+- **개발 기간**: 2022.12 - 2023.01
+- **사용 기술**: Unity, C#, 3D 모델링
+- **주요 기능**: 
+  - 포톤 서버 기반 멀티플레이
+  - Thanks to PoolC 9명(팀장, 기획, 프로그래밍, Art, Music)
+- **설명**: Unity 엔진을 활용한 멀티플레이 게임 프로젝트 & 2023 NDM 발표작
+
 
 ### [first-project](https://github.com/greatsangho/first-project)
 - **개발 기간**: 2022.12 - 2023.01
