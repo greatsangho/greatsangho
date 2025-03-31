@@ -68,7 +68,7 @@ As a hobby, I enjoy backend development and game development, constantly explori
 
 ## 🏆 Projects
 
-## 2024 프로젝트
+## 팀 프로젝트 (2024-2025)
 
 ### [FinPilot (SKN05-FINAL-3TEAM)](https://github.com/greatsangho/SKN05-FINAL-3TEAM)
 - **개발 기간**: 2024.12 - 2025.02
